@@ -267,8 +267,13 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  addressable
   faraday-retry
+  ffi
   github-pages
+  jekyll-sitemap
+  minitest
+  nokogiri
   webrick
 
 BUNDLED WITH
