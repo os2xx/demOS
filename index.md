@@ -90,5 +90,50 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * Assignment #1
 * Assignment #2
 
+[&#x213C;](#)<br id="idxSP02">
+### SP Week 02 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP03">
+### SP Week 03 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP04">
+### SP Week 04 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP05">
+### SP Week 05 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP06">
+### SP Week 06 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP07">
+### SP Week 07 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP08">
+### SP Week 08 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP09">
+### SP Week 09 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
+[&#x213C;](#)<br id="idxSP10">
+### SP Week 10 – Deadline: TBA, 23:00
+* Assignment #1
+* Assignment #2
+
 [&#x213C;](#)<br id="idxXXX">
 
