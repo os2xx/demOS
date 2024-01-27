@@ -17,7 +17,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [W00](#idxSP00) - [W01](#idxSP01) - [W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
 
-[&#x213C;](tmpAOS.md)
+<br>
 <hr>
 <br>
 
