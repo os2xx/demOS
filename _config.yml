@@ -1,5 +1,5 @@
 title: Operating Systems Programming
-version:     "005---27-Jan-2024"
+version:     "006---27-Jan-2024"
 copyright:   "2024-2024"
 description: This is the Operating System course site,
       a GitHub Page, hosted at GitHub.com (thank you!).
@@ -19,8 +19,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 urlweb:           "https://demOS.vlsm.org/"
+urlweb1:          "https://os.vlsm.org/"
 urlscele:         "https://scele.cs.ui.ac.id/course/view.php?id=3743"
-urllogcode:       "https://osp4diss.vlsm.org/ETC/logCodes.txt"
+urllogcode:       "https://doit.vlsm.org/ETC/logCodes.txt"
 urlcontact:       "TBA"
 urlgithub:        "https://github.com/os2xx/demOS/"
 urlghpage:        "https://demOS.vlsm.org/"

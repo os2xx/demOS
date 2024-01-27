@@ -17,14 +17,18 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [W00](#idxSP00) - [W01](#idxSP01) - [W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
 
-<br>
+[&#x213C;](tmpAOS.md)
 <hr>
 <br>
 
 [&#x213C;](#)<br id="idxOS00">
-### OS Week 00 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+### OS Week 00 – Deadline: 04 Feb 2024, 23:00
+* [Week 00 Assignment #1: GitHub Account](W00-01.md)
+* [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md)
+* [Week 00 Assignment #3: Create Your GitHub Page](W00-03.md)
+* [Week 00 Assignment #4: Course Registration](W00-04.md)
+* [Week 00 Assignment #5: Reading Assignment](W00-05.md)
+* [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md)
 
 [&#x213C;](#)<br id="idxOS01">
 ### OS Week 01 – Deadline: TBA, 23:00
