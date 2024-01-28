@@ -36,53 +36,53 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS01">
 ### OS Week 01 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS02">
 ### OS Week 02 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS03">
 ### OS Week 03 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS04">
 ### OS Week 04 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS05">
 ### OS Week 05 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS06">
 ### OS Week 06 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS07">
 ### OS Week 07 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS08">
 ### OS Week 08 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS09">
 ### OS Week 09 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxOS10">
 ### OS Week 10 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 <br>
 <hr>
@@ -90,58 +90,58 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxSP00">
 ### SP Week 00 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP01">
 ### SP Week 01 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP02">
 ### SP Week 02 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP03">
 ### SP Week 03 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP04">
 ### SP Week 04 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP05">
 ### SP Week 05 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP06">
 ### SP Week 06 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP07">
 ### SP Week 07 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP08">
 ### SP Week 08 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP09">
 ### SP Week 09 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP10">
 ### SP Week 10 – Deadline: TBA, 23:00
-* Assignment #1
-* Assignment #2
+* Assignment #1 TBA.
+* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxXXX">
 
