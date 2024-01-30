@@ -3,27 +3,16 @@ layout: "layout"
 title:  "OSP Weekly Assignments"
 ---
 
-The Deadline is 7 (seven) days after the assignment was announced.
-
 [&#x213C;](#idxXXX)<br id="idx000">
 ## Operating Systems Weekly Assignments
+
+The Deadline is 7 (seven) days after the assignment was announced.
 
 [W00](#idxOS00)
 
 [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
-
-[&#x213C;](#idxXXX)<br id="idx001">
-## System Programming Weekly Assignments
-
-[W00](#idxSP00)
-
-[W01](#idxSP01) - [W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
-
-<br>
-<hr>
-<br>
 
 [&#x213C;](#)<br id="idxOS00">
 ### OS Week 00 – Deadline: 04 Feb 2024, 23:00
@@ -84,14 +73,26 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * Assignment #1 TBA.
 * Assignment #2 TBA.
 
-<br>
 <hr>
-<br>
+
+[&#x213C;](#)<br id="idx001">
+## System Programming Weekly Assignments
+
+The Deadline is 7 (seven) days after the assignment was announced.
+
+[W00](#idxSP00)
+
+[W01](#idxSP01) - [W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
 
 [&#x213C;](#)<br id="idxSP00">
-### SP Week 00 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### SP Week 00 – Deadline: 07 Feb 2024, 23:00
+* [Week 00 Assignment #1: GitHub Account](S00-01.md)
+* [Week 00 Assignment #2: "TXT/mylog.txt"](S00-02.md)
+* [Week 00 Assignment #3: Create Your GitHub Page](S00-03.md)
+* [Week 00 Assignment #4: Course Registration](S00-04.md)
+* [Week 00 Assignment #5: Reading Assignment](S00-05.md)
+* [Week 00 Assignment #6: Setup a VirtualBox Debian Guest](S00-06.md)
+* [Week 00 Assignment #7: GnuPG](S00-07.md)
 
 [&#x213C;](#)<br id="idxSP01">
 ### SP Week 01 – Deadline: TBA, 23:00
