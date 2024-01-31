@@ -91,7 +91,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 00 Assignment #3: Create Your GitHub Page](S00-03.md)
 * [Week 00 Assignment #4: Course Registration](S00-04.md)
 * [Week 00 Assignment #5: Reading Assignment](S00-05.md)
-* [Week 00 Assignment #6: Setup a VirtualBox Debian Guest](S00-06.md)
+* [Week 00 Assignment #6: Setup a Debian Guest](S00-06.md)
 * [Week 00 Assignment #7: GnuPG](S00-07.md)
 * Create a script (myscript.txt):
   * SHA256SUM all "my" files
