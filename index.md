@@ -8,9 +8,9 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxOS00)
+[W00](#idxOS00) - [W01](#idxOS01)
 
-[W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+[W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
@@ -24,9 +24,22 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md)
 
 [&#x213C;](#)<br id="idxOS01">
-### OS Week 01 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 01 – Deadline: 14 Feb 2024, 23:00
+* [Week 01 Assignment #1: Setup a Virtual Debian Guest](W01-01.md)
+* [Week 01 Assignment #2: The ATM Way: GSGS and Read](W01-02.md)
+* [Week 01 Assignment #3: LINKS/](W01-03.md)
+* [Week 01 Assignment #4: Finishing](W01-04.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+    * See log codes at <https://doit.vlsm.org/ETC/logCodes.txt>
+    * E.g., see cbkadal's <https://cbkadal.github.io/os241/TXT/mylog.txt>
+  * myupdate.txt
+    * For Week 01, fill "myupdate.txt" with "OS241W01"
+    * E.g., see cbkadal's <https://cbkadal.github.io/os241/TXT/myupdate.txt>
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS02">
 ### OS Week 02 – Deadline: TBA, 23:00
@@ -91,12 +104,9 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 00 Assignment #3: Create Your GitHub Page](S00-03.md)
 * [Week 00 Assignment #4: Course Registration](S00-04.md)
 * [Week 00 Assignment #5: Reading Assignment](S00-05.md)
-* [Week 00 Assignment #6: Setup a Debian Guest](S00-06.md)
+* [Week 00 Assignment #6: Setup a Virtual Debian Guest](S00-06.md)
 * [Week 00 Assignment #7: GnuPG](S00-07.md)
-* Create a script (myscript.txt):
-  * SHA256SUM all "my" files
-  * Sign SHA256SUM to SHA256SUM.asc
-  * See also <https://cbkadal.github.io/sp241/TXT/myscript.sh>
+* [Week 00 Assignment #8: Finishing](S00-11.md)
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
