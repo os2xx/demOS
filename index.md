@@ -8,9 +8,9 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxOS00) - [W01](#idxOS01)
+[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02)
 
-[W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+[W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
@@ -42,9 +42,26 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS02">
-### OS Week 02 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 02 – Deadline: 21 Feb 2024, 23:00
+* [Week 02 Assignment #1: Readings, Watchings, and Demos](W02-01.md)
+* [Week 02 Assignment #2: GnuPG](W02-02.md)
+* Week 02 Assignment #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md)
+* [Week 02 Assignment #4: Review links every week!](W02-08.md)
+* [Week 02 Assignment #5: Script Download](W02-10.md)
+* [Week 02 Assignment #6: Finishing](W02-09.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt (content: OS241W02)
+  * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt WEEK02.sh)
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS03">
 ### OS Week 03 – Deadline: TBA, 23:00
@@ -93,9 +110,9 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxSP00)
+[W00](#idxSP00) - [W01](#idxSP01) 
 
-[W01](#idxSP01) - [W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
+[W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
 
 [&#x213C;](#)<br id="idxSP00">
 ### SP Week 00 – Deadline: 07 Feb 2024, 23:00
@@ -119,9 +136,30 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP01">
-### SP Week 01 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### SP Week 01 – Deadline: 21 Feb 2024, 23:00
+
+* [Week 01 Assignment #1: Preparation](S01-01.md)
+* [Week 01 Assignment #2: Linux Kernel](S01-02.md)
+* [Week 01 Assignment #3: The Linux Programming Interface](S01-03.md)
+* [Week 01 Assignment #4: DJBX33A in C dan shell-script.
+* Finishing:
+  * Run script "myscript.txt":
+    * See [this](S01-01.md) and <https://cbkadal.github.io/sp241/TXT/myscript.sh>
+  * Put string "SP241W01" (WEEK 01) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myscript.sh
+    * myupdate.txt (content: SP232W01)
+    * myW01.tar.xz.asc (content: config-linux-kernel tlpi.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP02">
 ### SP Week 02 – Deadline: TBA, 23:00
