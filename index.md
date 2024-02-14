@@ -47,7 +47,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 02 Assignment #2: GnuPG](W02-02.md)
 * Week 02 Assignment #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md)
 * [Week 02 Assignment #4: Review links every week!](W02-08.md)
-* [Week 02 Assignment #5: Script Download](W02-10.md)
+* [Week 02 Assignment #5: Assignment Script](W02-10.md)
 * [Week 02 Assignment #6: Finishing](W02-09.md)
 * Recheck folder "TXT/":
   * mylog.txt
