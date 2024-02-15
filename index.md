@@ -141,7 +141,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 01 Assignment #1: Preparation](S01-01.md)
 * [Week 01 Assignment #2: Linux Kernel](S01-02.md)
 * [Week 01 Assignment #3: The Linux Programming Interface](S01-03.md)
-* [Week 01 Assignment #4: DJBX33A in C dan shell-script.
+* [Week 01 Assignment #4: DJBX33A in C dan shell-script](S01-04.md)
 * Finishing:
   * Run script "myscript.txt":
     * See [this](S01-01.md) and <https://cbkadal.github.io/sp241/TXT/myscript.sh>
