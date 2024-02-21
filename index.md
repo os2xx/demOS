@@ -67,6 +67,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 ### OS Week 03 – Deadline:  28 Feb 2024, 23:00
 * [Week 03 Assignment #1: Readings and Demos](W03-01.md)
 * [Week 03 Assignment #2: Add/Create An Extra Virtual Disk](W03-02.md)
+* [Week 03 Assignment #3: Assignment Script](W03-08.md)
 
 [&#x213C;](#)<br id="idxOS04">
 ### OS Week 04 – Deadline: TBA, 23:00
