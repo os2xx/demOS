@@ -8,9 +8,9 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02)
+[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03)
 
-[W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+[W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
@@ -64,9 +64,9 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS03">
-### OS Week 03 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 03 – Deadline:  28 Feb 2024, 23:00
+* [Week 03 Assignment #1: Readings and Demos](W03-01.md)
+* [Week 03 Assignment #2: Add/Create An Extra Virtual Disk](W03-02.md)
 
 [&#x213C;](#)<br id="idxOS04">
 ### OS Week 04 – Deadline: TBA, 23:00
