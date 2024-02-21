@@ -124,9 +124,9 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxSP00) - [W01](#idxSP01) 
+[W00](#idxSP00) - [W01](#idxSP01) - [W02](#idxSP02) 
 
-[W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
+[W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
 
 [&#x213C;](#)<br id="idxSP00">
 ### SP Week 00 – Deadline: 07 Feb 2024, 23:00
@@ -176,9 +176,30 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP02">
-### SP Week 02 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### SP Week 02 – Deadline: 28 Feb 2024, 23:00
+
+* [Week 02 Assignment #1: Assignment Script](S02-01.md)
+* [Week 02 Assignment #2: LFS 11.3 Chapter 01-05](S02-02.md)
+* [Week 02 Assignment #3: LFS 11.3 Chapter 06-07](S02-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
+  * Put string "SP241" (WEEK 02) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myrank.txt
+    * myscript.sh
+    * myupdate.txt (content: SP241W02)
+    * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP03">
 ### SP Week 03 – Deadline: TBA, 23:00
