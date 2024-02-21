@@ -68,6 +68,20 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 03 Assignment #1: Readings and Demos](W03-01.md)
 * [Week 03 Assignment #2: Add/Create An Extra Virtual Disk](W03-02.md)
 * [Week 03 Assignment #3: Assignment Script](W03-08.md)
+* [Week 03 Assignment #4: Finishing](W04-09.md)
+* Recheck folder “TXT/”:
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt (content: OS241W03)
+  * myW03.tar.xz.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt WEEK03-DEMO-CHECK.txt WEEK03-MD5SUM.txt)
+  * SHA256SUM
+  * SHA256SUM.asc
+  * Submit (PUSH) your assignments
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk. If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS04">
 ### OS Week 04 – Deadline: TBA, 23:00
@@ -152,7 +166,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP232W01)
+    * myupdate.txt (content: SP241W01)
     * myW01.tar.xz.asc (content: config-linux-kernel tlpi.txt)
     * SHA256SUM
     * SHA256SUM.asc
