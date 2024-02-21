@@ -179,8 +179,8 @@ The Deadline is 7 (seven) days after the assignment was announced.
 ### SP Week 02 – Deadline: 28 Feb 2024, 23:00
 
 * [Week 02 Assignment #1: Assignment Script](S02-01.md)
-* [Week 02 Assignment #2: LFS 11.3 Chapter 01-05](S02-02.md)
-* [Week 02 Assignment #3: LFS 11.3 Chapter 06-07](S02-03.md)
+* [Week 02 Assignment #2: LFS 12.0 Chapter 01-05](S02-02.md)
+* [Week 02 Assignment #3: LFS 12.0 Chapter 06-07](S02-03.md)
 * Finishing:
   * Run script "myscript.txt":
     * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
@@ -197,7 +197,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
   * Submit (PUSH) your assignments
-    * See the 4 GIT MANTRAS: [pull, add, commit, push](osp-119.html)
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
   * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
     If your computer has problems, those OVA files can be run on another computer.
 
