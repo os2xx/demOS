@@ -192,7 +192,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * myrank.txt
     * myscript.sh
     * myupdate.txt (content: SP241W02)
-    * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt)
+    * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt, WEEK02-MD5SUM.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
