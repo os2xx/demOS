@@ -83,9 +83,20 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk. If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS04">
-### OS Week 04 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 04 – Deadline:  06 Mar 2024, 23:00
+* Recheck folder “TXT/”:
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt (content: OS241W04)
+  * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt TBA)
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk. 
+  If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS05">
 ### OS Week 05 – Deadline: TBA, 23:00
