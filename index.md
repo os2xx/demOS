@@ -200,7 +200,31 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * Finishing:
   * Run script "myscript.txt":
     * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241" (WEEK 02) into file "TXT/myupdate.txt"
+  * Put string "SP241W02" (WEEK 02) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myscript.sh
+    * myupdate.txt (content: SP241W02)
+    * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt, WEEK02-MD5SUM.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
+
+[&#x213C;](#)<br id="idxSP03">
+### SP Week 03 – Deadline: 06 Mar 2024, 23:00
+* [Week 03 Assignment #1: Readings](S03-01.md)
+* [Week 03 Assignment #2: FUSE](S03-02.md)
+* [Week 03 Assignment #3: Assignment Script](S03-03.md)
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
+  * Put string "SP241W03" (WEEK 02) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
   * Files in TXT (see also <https://github.com/cbkadal/sp241/tree/master/TXT/>):
     * mylog.txt
@@ -216,11 +240,6 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
   * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
     If your computer has problems, those OVA files can be run on another computer.
-
-[&#x213C;](#)<br id="idxSP03">
-### SP Week 03 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
 
 [&#x213C;](#)<br id="idxSP04">
 ### SP Week 04 – Deadline: TBA, 23:00
