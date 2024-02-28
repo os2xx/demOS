@@ -84,13 +84,18 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS04">
 ### OS Week 04 – Deadline:  06 Mar 2024, 23:00
+* [Week 04 Assignment #1: Readings and Demos](W04-01.md)
+* [Week 04 Assignment #2: Assignment Script](W04-02.md)
+* [Week 04 Assignment #3: Compiling The Linux Programming Interface (TLPI)](W04-03.md)
+* [Week 04 Assignment #4: Finishing](W04-04.md)
 * Recheck folder “TXT/”:
   * mylog.txt
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS241W04)
-  * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt TBA)
+  * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt WEEK04-04-TLPI.txt
+    WEEK04-054173920ab56d235d6317b8da1e7311-md5sum.bin WEEK04-DEMO-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
