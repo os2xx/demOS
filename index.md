@@ -224,15 +224,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * Finishing:
   * Run script "myscript.txt":
     * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W03" (WEEK 02) into file "TXT/myupdate.txt"
+  * Put string "SP241W03" (WEEK 03) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
   * Files in TXT (see also <https://github.com/cbkadal/sp241/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
-    * myrank.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W02)
-    * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt, WEEK02-MD5SUM.txt)
+    * myupdate.txt (content: SP241W03)
+    * myW03.tar.xz.asc (content: WEEK03-00-BASIC.txt, WEEK03-01-VERSION.txt, TBA)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
