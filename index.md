@@ -8,9 +8,9 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03)
+[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) 
 
-[W04](#idxOS04) - [W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+[W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
@@ -140,9 +140,9 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxSP00) - [W01](#idxSP01) - [W02](#idxSP02) 
+[W00](#idxSP00) - [W01](#idxSP01) - [W02](#idxSP02) - [W03](#idxSP03) 
 
-[W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
+[W04](#idxSP04) - [W05](#idxSP05) - [W06](#idxSP06) - [W07](#idxSP07) - [W08](#idxSP08) - [W09](#idxSP09) - [W10](#idxSP10) 
 
 [&#x213C;](#)<br id="idxSP00">
 ### SP Week 00 – Deadline: 07 Feb 2024, 23:00
