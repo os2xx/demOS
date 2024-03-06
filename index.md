@@ -80,7 +80,8 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
   * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
-* It is always a good idea to back up the last few OVA (or UTM) files on an external disk. If your computer has problems, those OVA files can be run on another computer.
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS04">
 ### OS Week 04 – Deadline:  06 Mar 2024, 23:00
@@ -100,13 +101,30 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
   * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
-* It is always a good idea to back up the last few OVA (or UTM) files on an external disk. 
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS05">
-### OS Week 05 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 05 – Deadline:  13 Mar 2024, 23:00
+* [Week 05 Assignment #1: Readings and Demos](W05-01.md)
+* [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-02.md)
+* [Week 04 Assignment #3: Assignment Script](W05-03.md)
+* [Week 05 Assignment #4: Memory](W05-04.md)
+* [Week 05 Assignment #5: Finishing](W05-05.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt (content: OS232W05)
+  * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a-MYMEMORY.txt 
+    WEEK05-05b-MYMEMORY.txt WEEK05-DEMO-CHECK.txt WEEK05-2852a96f80af867139c7c966d9984776-md5sum.bin)
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS06">
 ### OS Week 06 – Deadline: TBA, 23:00
