@@ -117,7 +117,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS232W05)
-  * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a-MYMEMORY.txt 
+  * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a-MYMEMORY.txt  WEEK05-MD5SUM.txt
     WEEK05-05b-MYMEMORY.txt WEEK05-DEMO-CHECK.txt WEEK05-2852a96f80af867139c7c966d9984776-md5sum.bin)
   * SHA256SUM
   * SHA256SUM.asc
@@ -273,7 +273,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * mypubkey.txt
     * myscript.sh
     * myupdate.txt (content: SP241W04)
-    * myW03.tar.xz.asc (content: WEEK03-00-BASIC.txt, WEEK03-01-VERSION.txt)
+    * myW03.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
