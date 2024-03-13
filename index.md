@@ -292,14 +292,15 @@ Week 05 Assignment #4: Autoconf and Automake
 * Finishing:
   * Run script "myscript.txt":
     * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W04" (WEEK 04) into file "TXT/myupdate.txt"
+  * Put string "SP241W05" (WEEK 05) into file "TXT/myupdate.txt"
     * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
   * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
     * myupdate.txt (content: SP241W04)
-    * myW03.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt)
+    * myW05.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  
+      tba)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
