@@ -273,7 +273,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * mypubkey.txt
     * myscript.sh
     * myupdate.txt (content: SP241W04)
-    * myW03.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt)
+    * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -284,9 +284,29 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 
 [&#x213C;](#)<br id="idxSP05">
-### SP Week 05 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### SP Week 05 – Deadline: 20 Mar 2024, 23:00
+Week 05 Assignment #1: Readings
+Week 05 Assignment #2: Linux Kernel
+Week 05 Assignment #3: Script Download
+Week 05 Assignment #4: Autoconf and Automake
+* Finishing:
+  * Run script "myscript.txt":
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
+  * Put string "SP241W04" (WEEK 04) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * mylog.txt
+    * mypubkey.txt
+    * myscript.sh
+    * myupdate.txt (content: SP241W04)
+    * myW03.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt)
+    * SHA256SUM
+    * SHA256SUM.asc
+  * Always update SHA256SUM/SHA256SUM.asc after changes.
+  * Submit (PUSH) your assignments
+    * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+    If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP06">
 ### SP Week 06 – Deadline: TBA, 23:00
