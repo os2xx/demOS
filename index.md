@@ -273,7 +273,8 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * mypubkey.txt
     * myscript.sh
     * myupdate.txt (content: SP241W04)
-    * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt)
+    * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt,
+      WEEK04-575b39d631eaa4037b3b888a36a81e12-md5sum.bin)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
@@ -285,10 +286,10 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxSP05">
 ### SP Week 05 – Deadline: 20 Mar 2024, 23:00
-Week 05 Assignment #1: Readings
-Week 05 Assignment #2: Linux Kernel
-Week 05 Assignment #3: Script Download
-Week 05 Assignment #4: Autoconf and Automake
+* [Week 05 Assignment #1: Readings](S05-01.md)
+* [Week 05 Assignment #2: Linux Kernel](S05-04.md)
+* [Week 05 Assignment #3: Assignment Script](S05-02.md)
+* [Week 05 Assignment #4: Autoconf and Automake](S05-03.md)
 * Finishing:
   * Run script "myscript.txt":
     * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>

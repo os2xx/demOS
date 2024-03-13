@@ -57,6 +57,10 @@
   color: #f0f0f0;
 }
 
+.textleft {
+  text-align:   left;
+}
+
 .row {
 }
 
