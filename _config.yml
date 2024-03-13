@@ -1,11 +1,5 @@
 title: Operating Systems Programming
-<<<<<<< HEAD
-version:     "0033---12-Mar-2024"
-||||||| f48694e
-version:     "0032a---07-Mar-2024"
-=======
-version:     "0033---13-Mar-2024"
->>>>>>> 5dfe7b3681dd615dab3643b767bb2d7dead733f1
+version:     "0033a---13-Mar-2024"
 copyright:   "2024-2024"
 description: This is the Operating System course site,
       a GitHub Page, hosted at GitHub.com (thank you!).
