@@ -8,9 +8,11 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05)
+[W06](#idxOS06)
 
-[W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+[W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+
+[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05)
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
@@ -127,9 +129,25 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS06">
-### OS Week 06 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 06 – Deadline:  07 Apr 2024, 23:00
+* [Week 06 Assignment #1: Readings and Demos](W06-01.md)
+* [Week 04 Assignment #2: Assignment Script](W06-02.md)
+* [Week 06 Assignment #3: Fork and Shared Memory](W06-03.md)
+* [Week 06 Assignment #4: Finishing](W06-04.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt (content: OS241W06)
+  * myW06.tar.xz.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt
+    WEEK06-DEMO-CHECK.txt WEEK06-SHARE.bin)
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS07">
 ### OS Week 07 – Deadline: TBA, 23:00
