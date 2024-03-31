@@ -176,7 +176,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W06](#idxSP06) - 
+[W06](#idxSP06)  
 
 [W00](#idxSP00) - [W01](#idxSP01) - [W02](#idxSP02) - [W03](#idxSP03) - [W04](#idxSP04) - [W05](#idxSP05) 
 
