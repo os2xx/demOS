@@ -374,6 +374,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 07 Assignment #1: Readings](S07-01.md)
 * [Week 07 Assignment #2: Linux Kernel](S07-03.md)
 * [Week 07 Assignment #3: Assignment Script](S07-02.md)
+* [Week 07 Assignment #4: Synchronization](S07-04.md)
 * Finishing:
   * Run script "myscript.txt":
     * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
