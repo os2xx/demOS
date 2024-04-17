@@ -154,6 +154,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 07 Assignment #1: Readings and Demos](W07-01.md)
 * [Week 07 Assignment #2: Assignment Script](W07-02.md)
 * [Week 07 Assignment #3: Synchronization](W07-03.md)
+* [Week 07 Assignment #4: Finishing](W07-04.md)
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
