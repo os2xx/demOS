@@ -40,7 +40,7 @@ fecho1() {
 }
 
 fecho() {
-  fecho1 "$@" | tee -a $FILE
+  fecho1 "$@" | tee -a $REPORT
 }
 
 [ -d  $RESULT ] || mkdir -pv $RESULT
