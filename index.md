@@ -8,9 +8,9 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W06](#idxOS06) - [W07](#idxOS07)
+[W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) 
 
-[W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+[W09](#idxOS09) - [W10](#idxOS10) 
 
 [W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05)
 
@@ -170,9 +170,25 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS08">
-### OS Week 08 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 08 – Deadline:  1 May 2024, 23:00
+* [Week 08 Assignment #1: Readings and Demos](W08-01.md)
+* [Week 08 Assignment #2: Assignment Script](W08-02.md)
+* [Week 08 Assignment #3: LFS 12.1 Chapter 01-05](W08-03.md)
+* [Week 08 Assignment #4: Finishing](W08-04.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt (content: OS241W08)
+  * myW08.tar.xz.asc (content: WEEK08-00-BASIC.txt WEEK08-01-VERSION.txt)
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
+
 
 [&#x213C;](#)<br id="idxOS09">
 ### OS Week 09 – Deadline: TBA, 23:00
