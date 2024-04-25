@@ -426,7 +426,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     * mypubkey.txt
     * myscript.sh
     * myupdate.txt (content: SP241W08)
-    * myW08.tar.xz.asc (content: WEEK08-00-BASIC.txt, WEEK08-01-VERSION.txt)
+    * myW08.tar.xz.asc (content: WEEK08-00-BASIC.txt, WEEK08-01-VERSION.txt, WEEK08-KERNEL-LOG.txt)
     * SHA256SUM
     * SHA256SUM.asc
   * Always update SHA256SUM/SHA256SUM.asc after changes.
