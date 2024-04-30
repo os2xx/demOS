@@ -192,9 +192,24 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 
 [&#x213C;](#)<br id="idxOS09">
-### OS Week 09 – Deadline: TBA, 23:00
-* Assignment #1 TBA.
-* Assignment #2 TBA.
+### OS Week 09 – Deadline:  8 May 2024, 23:00
+* [Week 09 Assignment #1: Readings and Demos](W09-01.md)
+* [Week 09 Assignment #2: Assignment Script](W09-02.md)
+* [Week 09 Assignment #3: LFS 12.1 Chapter 06-07](W09-03.md)
+* [Week 09 Assignment #4: Finishing](W09-04.md)
+* Recheck folder "TXT/":
+  * mylog.txt
+  * mypubkey.txt
+  * myrank.txt
+  * myscript.sh
+  * myupdate.txt (content: OS241W09)
+  * myW09.tar.xz.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-DEMO-CHECK.txt TBA)
+  * SHA256SUM
+  * SHA256SUM.asc
+* Submit (PUSH) your assignments
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS10">
 ### OS Week 10 – Deadline: TBA, 23:00
