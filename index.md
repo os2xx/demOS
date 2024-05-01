@@ -203,7 +203,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS241W09)
-  * myW09.tar.xz.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-DEMO-CHECK.txt TBA)
+  * myW09.tar.xz.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-09-LFS.txt WEEK09-DEMO-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
