@@ -489,8 +489,9 @@ The Deadline is 7 (seven) days after the assignment was announced.
 [&#x213C;](#)<br id="idxSP10">
 ### SP Week 10 – Deadline: 22 May 2024, 23:00
 * [Week 10 Assignment #1: Readings](S10-01.md)
-* [Week 10 Assignment #2: Assignment Script](S10-02.md)
-* [Week 10 Assignment #3: Linux Kernel Module](S10-03.md)
+* [Week 10 Assignment #2: Linux Kernel](S10-04.md)
+* [Week 10 Assignment #3: Assignment Script](S10-02.md)
+* [Week 10 Assignment #4: Linux Kernel Module](S10-03.md)
 * Finishing:
   * Run script "myscript.txt":
     * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
