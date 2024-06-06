@@ -15,7 +15,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
 [&#x213C;](#)<br id="idxOS00">
-### OS Week 00 – Deadline: 04 Feb 2024, 23:00
+### OS Week 00 – Deadline: TBA.
 * [Week 00 Assignment #1: GitHub Account](W00-01.md)
 * [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md)
 * [Week 00 Assignment #3: Create Your GitHub Page](W00-03.md)
@@ -24,7 +24,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md)
 
 [&#x213C;](#)<br id="idxOS01">
-### OS Week 01 – Deadline: 14 Feb 2024, 23:00
+### OS Week 01 – Deadline: TBA.
 * [Week 01 Assignment #1: Setup a Virtual Debian Guest](W01-01.md)
 * [Week 01 Assignment #2: The ATM Way: GSGS and Read](W01-02.md)
 * [Week 01 Assignment #3: LINKS/](W01-03.md)
@@ -42,7 +42,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS02">
-### OS Week 02 – Deadline: 21 Feb 2024, 23:00
+### OS Week 02 – Deadline: TBA.
 * [Week 02 Assignment #1: Readings, Watchings, and Demos](W02-01.md)
 * [Week 02 Assignment #2: GnuPG](W02-02.md)
 * Week 02 Assignment #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md)
@@ -64,7 +64,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS03">
-### OS Week 03 – Deadline:  28 Feb 2024, 23:00
+### OS Week 03 – Deadline:  TBA.
 * [Week 03 Assignment #1: Readings and Demos](W03-01.md)
 * [Week 03 Assignment #2: Add/Create An Extra Virtual Disk](W03-02.md)
 * [Week 03 Assignment #3: Assignment Script](W03-08.md)
@@ -84,7 +84,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS04">
-### OS Week 04 – Deadline:  06 Mar 2024, 23:00
+### OS Week 04 – Deadline:  TBA.
 * [Week 04 Assignment #1: Readings and Demos](W04-01.md)
 * [Week 04 Assignment #2: Assignment Script](W04-02.md)
 * [Week 04 Assignment #3: Compiling The Linux Programming Interface (TLPI)](W04-03.md)
@@ -105,7 +105,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS05">
-### OS Week 05 – Deadline:  13 Mar 2024, 23:00
+### OS Week 05 – Deadline:  TBA.
 * [Week 05 Assignment #1: Readings and Demos](W05-01.md)
 * [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-02.md)
 * [Week 05 Assignment #3: Assignment Script](W05-03.md)
@@ -127,7 +127,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS06">
-### OS Week 06 – Deadline:  07 Apr 2024, 23:00
+### OS Week 06 – Deadline:  TBA.
 * [Week 06 Assignment #1: Readings and Demos](W06-01.md)
 * [Week 06 Assignment #2: Assignment Script](W06-02.md)
 * [Week 06 Assignment #3: Fork and Shared Memory](W06-03.md)
@@ -148,7 +148,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS07">
-### OS Week 07 – Deadline:  24 Apr 2024, 23:00
+### OS Week 07 – Deadline:  TBA.
 * [Week 07 Assignment #1: Readings and Demos](W07-01.md)
 * [Week 07 Assignment #2: Assignment Script](W07-02.md)
 * [Week 07 Assignment #3: Synchronization](W07-03.md)
@@ -168,7 +168,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS08">
-### OS Week 08 – Deadline:  1 May 2024, 23:00
+### OS Week 08 – Deadline:  TBA.
 * [Week 08 Assignment #1: Readings and Demos](W08-01.md)
 * [Week 08 Assignment #2: Assignment Script](W08-02.md)
 * [Week 08 Assignment #3: LFS 12.1 Chapter 01-05](W08-03.md)
@@ -190,7 +190,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 
 [&#x213C;](#)<br id="idxOS09">
-### OS Week 09 – Deadline:  8 May 2024, 23:00
+### OS Week 09 – Deadline:  TBA.
 * [Week 09 Assignment #1: Readings and Demos](W09-01.md)
 * [Week 09 Assignment #2: Assignment Script](W09-02.md)
 * [Week 09 Assignment #3: LFS 12.1 Chapter 06-07](W09-03.md)
@@ -210,7 +210,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS10">
-### OS Week 10 – Deadline: 19 May 2024, 23:00
+### OS Week 10 – Deadline: TBA.
 * [Week 10 Assignment #1: Readings and Demos](W10-01.md)
 * [Week 10 Assignment #2: Assignment Script](W10-02.md)
 * [Week 10 Assignment #3: LFS 12.1 Chapter 08](W10-03.md)
@@ -242,7 +242,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 
 [&#x213C;](#)<br id="idxSP00">
-### SP Week 00 – Deadline: 07 Feb 2024, 23:00
+### SP Week 00 – Deadline: TBA.
 * [Week 00 Assignment #1: GitHub Account](S00-01.md)
 * [Week 00 Assignment #2: "TXT/mylog.txt"](S00-02.md)
 * [Week 00 Assignment #3: Create Your GitHub Page](S00-03.md)
@@ -263,7 +263,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP01">
-### SP Week 01 – Deadline: 21 Feb 2024, 23:00
+### SP Week 01 – Deadline: TBA.
 
 * [Week 01 Assignment #1: Preparation](S01-01.md)
 * [Week 01 Assignment #2: Linux Kernel](S01-02.md)
@@ -289,7 +289,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP02">
-### SP Week 02 – Deadline: 28 Feb 2024, 23:00
+### SP Week 02 – Deadline: TBA.
 
 * [Week 02 Assignment #1: Assignment Script](S02-01.md)
 * [Week 02 Assignment #2: LFS 12.0 Chapter 01-05](S02-02.md)
@@ -314,7 +314,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP03">
-### SP Week 03 – Deadline: 06 Mar 2024, 23:00
+### SP Week 03 – Deadline: TBA.
 * [Week 03 Assignment #1: Readings](S03-01.md)
 * [Week 03 Assignment #2: FUSE](S03-02.md)
 * [Week 03 Assignment #3: Assignment Script](S03-03.md)
@@ -339,7 +339,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP04">
-### SP Week 04 – Deadline: 13 Mar 2024, 23:00
+### SP Week 04 – Deadline: TBA.
 * [Week 04 Assignment #1: Readings](S04-01.md)
 * [Week 04 Assignment #2: Assignment Script](S04-02.md)
 * Finishing:
@@ -364,7 +364,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 
 [&#x213C;](#)<br id="idxSP05">
-### SP Week 05 – Deadline: 20 Mar 2024, 23:00
+### SP Week 05 – Deadline: TBA.
 * [Week 05 Assignment #1: Readings](S05-01.md)
 * [Week 05 Assignment #2: Linux Kernel](S05-04.md)
 * [Week 05 Assignment #3: Assignment Script](S05-02.md)
@@ -389,7 +389,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP06">
-### SP Week 06 – Deadline: 17 Apr 2024, 23:00
+### SP Week 06 – Deadline: TBA.
 * [Week 06 Assignment #1: Readings](S06-01.md)
 * [Week 06 Assignment #2: Assignment Script](S06-02.md)
 * [Week 06 Assignment #3: More Scripting](S06-03.md)
@@ -413,7 +413,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP07">
-### SP Week 07 – Deadline:  24 Apr 2024, 23:00
+### SP Week 07 – Deadline:  TBA.
 * [Week 07 Assignment #1: Readings](S07-01.md)
 * [Week 07 Assignment #2: Linux Kernel](S07-03.md)
 * [Week 07 Assignment #3: Assignment Script](S07-02.md)
@@ -438,7 +438,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP08">
-### SP Week 08 – Deadline:  1 May 2024, 23:00
+### SP Week 08 – Deadline:  TBA.
 * [Week 08 Assignment #1: Readings](S08-01.md)
 * [Week 08 Assignment #2: Assignment Script](S08-02.md)
 * [Week 08 Assignment #3: Linux Kernel Module](S08-03.md)
@@ -463,7 +463,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 
 [&#x213C;](#)<br id="idxSP09">
-### SP Week 09 – Deadline:  8 May 2024, 23:00
+### SP Week 09 – Deadline:  TBA.
 * [Week 09 Assignment #1: Readings](S09-01.md)
 * [Week 09 Assignment #2: Assignment Script](S09-02.md)
 * [Week 09 Assignment #3: Linux Kernel Module](S09-03.md)
@@ -487,7 +487,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
     If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxSP10">
-### SP Week 10 – Deadline: 22 May 2024, 23:00
+### SP Week 10 – Deadline: TBA.
 * [Week 10 Assignment #1: Readings](S10-01.md)
 * [Week 10 Assignment #2: Linux Kernel](S10-04.md)
 * [Week 10 Assignment #3: Assignment Script](S10-02.md)
