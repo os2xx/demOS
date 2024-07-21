@@ -42,14 +42,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 01 Assignment #4: DJBX33A in C and shell-script](S01-04.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See [this](S01-01.md) and <https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W01" (WEEK 01) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See [this](S01-01.md) and <https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W01" (WEEK 01) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W01)
+    * myupdate.txt (content: SP242W01)
     * myW01.tar.xz.asc (content: config-linux-kernel tlpi.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -67,14 +67,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 02 Assignment #3: LFS 12.0 Chapter 06-07](S02-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W02" (WEEK 02) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W02" (WEEK 02) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W02)
+    * myupdate.txt (content: SP242W02)
     * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt, WEEK02-01-VERSION.txt, WEEK02-02a-LFS.txt, WEEK02-02b-LFS.txt, WEEK02-MD5SUM.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -91,14 +91,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 03 Assignment #3: Assignment Script](S03-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W03" (WEEK 03) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W03" (WEEK 03) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W03)
+    * myupdate.txt (content: SP242W03)
     * myW03.tar.xz.asc (content: WEEK03-00-BASIC.txt, WEEK03-01-VERSION.txt, config-6.7.XXX,
       WEEK03-6e702bdce1c920632ad6d8e2ec167fa7-md5sum.bin)
     * SHA256SUM
@@ -115,14 +115,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 04 Assignment #2: Assignment Script](S04-02.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W04" (WEEK 04) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W04" (WEEK 04) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W04)
+    * myupdate.txt (content: SP242W04)
     * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt, WEEK04-01-VERSION.txt,  WEEK04-MD5SUM.txt,
       WEEK04-575b39d631eaa4037b3b888a36a81e12-md5sum.bin)
     * SHA256SUM
@@ -142,14 +142,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 05 Assignment #4: Autoconf and Automake](S05-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W05" (WEEK 05) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W05" (WEEK 05) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W05)
+    * myupdate.txt (content: SP242W05)
     * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt, WEEK05-01-VERSION.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -166,14 +166,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 06 Assignment #3: More Scripting](S06-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W06" (WEEK 06) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W06" (WEEK 06) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W06)
+    * myupdate.txt (content: SP242W06)
     * myW06.tar.xz.asc (content: WEEK06-00-BASIC.txt, WEEK06-01-VERSION.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -191,14 +191,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 07 Assignment #4: Synchronization](S07-04.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W07" (WEEK 07) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W07" (WEEK 07) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W07)
+    * myupdate.txt (content: SP242W07)
     * myW07.tar.xz.asc (content: WEEK07-00-BASIC.txt, WEEK07-01-VERSION.txt, WEEK07-07-RUN.txt, WEEK07-MYSHARE.bin, WEEK07-REPORT2.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -215,14 +215,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 08 Assignment #3: Linux Kernel Module](S08-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W08" (WEEK 08) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W08" (WEEK 08) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W08)
+    * myupdate.txt (content: SP242W08)
     * myW08.tar.xz.asc (content: WEEK08-00-BASIC.txt, WEEK08-01-VERSION.txt, WEEK08-KERNEL-LOG.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -240,14 +240,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 09 Assignment #3: Linux Kernel Module](S09-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W09" (WEEK 09) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W09" (WEEK 09) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W09)
+    * myupdate.txt (content: SP242W09)
     * myW09.tar.xz.asc (content: WEEK09-00-BASIC.txt, WEEK09-01-VERSION.txt, WEEK09-KERNEL-LOG.txt)
     * SHA256SUM
     * SHA256SUM.asc
@@ -265,14 +265,14 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 10 Assignment #4: Linux Kernel Module](S10-03.md)
 * Finishing:
   * Run script "myscript.txt":
-    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp241/TXT/myscript.sh>
-  * Put string "SP241W10" (WEEK 10) into file "TXT/myupdate.txt"
-    * E.g. cbkadal's <https://cbkadal.github.io/sp241/TXT/myupdate.txt>
-  * Files in TXT (see also <br><https://github.com/cbkadal/sp241/tree/master/TXT/>):
+    * See also [previous Week 01](S01-01.md) and <br><https://cbkadal.github.io/sp242/TXT/myscript.sh>
+  * Put string "SP242W10" (WEEK 10) into file "TXT/myupdate.txt"
+    * E.g. cbkadal's <https://cbkadal.github.io/sp242/TXT/myupdate.txt>
+  * Files in TXT (see also <br><https://github.com/cbkadal/sp242/tree/master/TXT/>):
     * mylog.txt
     * mypubkey.txt
     * myscript.sh
-    * myupdate.txt (content: SP241W10)
+    * myupdate.txt (content: SP242W10)
     * myW10.tar.xz.asc (content: WEEK10-00-BASIC.txt, WEEK10-01-VERSION.txt, WEEK10-KERNEL-LOG.txt,
       WEEK10-MODULE-LOG.txt)
     * SHA256SUM

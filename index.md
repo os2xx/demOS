@@ -32,10 +32,10 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * Recheck folder "TXT/":
   * mylog.txt
     * See log codes at <https://doit.vlsm.org/ETC/logCodes.txt>
-    * E.g., see cbkadal's <https://cbkadal.github.io/os241/TXT/mylog.txt>
+    * E.g., see cbkadal's <https://cbkadal.github.io/os242/TXT/mylog.txt>
   * myupdate.txt
-    * For Week 01, fill "myupdate.txt" with "OS241W01"
-    * E.g., see cbkadal's <https://cbkadal.github.io/os241/TXT/myupdate.txt>
+    * For Week 01, fill "myupdate.txt" with "OS242W01"
+    * E.g., see cbkadal's <https://cbkadal.github.io/os242/TXT/myupdate.txt>
 * Submit (PUSH) your assignments
   * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
@@ -54,7 +54,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W02)
+  * myupdate.txt (content: OS242W02)
   * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt WEEK02.sh)
   * SHA256SUM
   * SHA256SUM.asc
@@ -74,7 +74,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W03)
+  * myupdate.txt (content: OS242W03)
   * myW03.tar.xz.asc (content: WEEK03-00-BASIC.txt WEEK03-01-VERSION.txt WEEK03-03-DISK-CHECK.txt WEEK03-DEMO-CHECK.txt WEEK03-MD5SUM.txt WEEK03.tar)
   * SHA256SUM
   * SHA256SUM.asc
@@ -94,7 +94,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W04)
+  * myupdate.txt (content: OS242W04)
   * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt WEEK04-04-TLPI.txt
     WEEK04-054173920ab56d235d6317b8da1e7311-md5sum.bin WEEK04-DEMO-CHECK.txt)
   * SHA256SUM
@@ -116,7 +116,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W05)
+  * myupdate.txt (content: OS242W05)
   * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a-MYMEMORY.txt  WEEK05-MD5SUM.txt
     WEEK05-05b-MYMEMORY.txt WEEK05-DEMO-CHECK.txt WEEK05-2852a96f80af867139c7c966d9984776-md5sum.bin)
   * SHA256SUM
@@ -137,7 +137,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W06)
+  * myupdate.txt (content: OS242W06)
   * myW06.tar.xz.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt
     WEEK06-DEMO-CHECK.txt WEEK06-SHARE.bin)
   * SHA256SUM
@@ -158,7 +158,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W07)
+  * myupdate.txt (content: OS242W07)
   * myW07.tar.xz.asc (content: WEEK07-00-BASIC.txt WEEK07-01-VERSION.txt WEEK07-07-RUN.txt WEEK07-DEMO-CHECK.txt WEEK07-MYSHARE.bin WEEK07-REPORT2.txt)
   * SHA256SUM
   * SHA256SUM.asc
@@ -178,7 +178,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W08)
+  * myupdate.txt (content: OS242W08)
   * myW08.tar.xz.asc (content: WEEK08-00-BASIC.txt WEEK08-01-VERSION.txt WEEK08-08-LFS.txt 
     WEEK08-DEMO-CHECK.txt)
   * SHA256SUM
@@ -200,7 +200,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W09)
+  * myupdate.txt (content: OS242W09)
   * myW09.tar.xz.asc (content: WEEK09-00-BASIC.txt WEEK09-01-VERSION.txt WEEK09-09-LFS.txt WEEK09-DEMO-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
@@ -220,7 +220,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
-  * myupdate.txt (content: OS241W10)
+  * myupdate.txt (content: OS242W10)
   * myW10.tar.xz.asc (content: WEEK10-00-BASIC.txt WEEK10-01-VERSION.txt WEEK09-10-LFS.txt WEEK10-DEMO-CHECK.txt)
   * SHA256SUM
   * SHA256SUM.asc
