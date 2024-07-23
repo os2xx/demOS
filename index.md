@@ -8,7 +8,9 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05)
+[W00](#idxOS00) 
+
+[W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04) - [W05](#idxOS05)
 
 [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
@@ -16,7 +18,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS00">
 ### OS Week 00 – Deadline: TBA.
-* [Week 00 Assignment #1: GitHub Account](W00-01.md){:target="_blank"}
+* [Week 00 Assignment #1: GitHub Account and Repository](W00-01.md){:target="_blank"}
 * [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md){:target="_blank"}
 * [Week 00 Assignment #3: Create Your GitHub Page](W00-03.md){:target="_blank"}
 * [Week 00 Assignment #4: Course Registration](W00-04.md){:target="_blank"}
