@@ -16,12 +16,12 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS00">
 ### OS Week 00 – Deadline: TBA.
-* [Week 00 Assignment #1: GitHub Account](W00-01.md)
-* [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md)
-* [Week 00 Assignment #3: Create Your GitHub Page](W00-03.md)
-* [Week 00 Assignment #4: Course Registration](W00-04.md)
-* [Week 00 Assignment #5: Reading Assignment](W00-05.md)
-* [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md)
+* [Week 00 Assignment #1: GitHub Account](W00-01.md){:target="_blank"}
+* [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md){:target="_blank"}
+* [Week 00 Assignment #3: Create Your GitHub Page](W00-03.md){:target="_blank"}
+* [Week 00 Assignment #4: Course Registration](W00-04.md){:target="_blank"}
+* [Week 00 Assignment #5: Reading Assignment](W00-05.md){:target="_blank"}
+* [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md){:target="_blank"}
 
 [&#x213C;](#)<br id="idxOS01">
 ### OS Week 01 – Deadline: TBA.
