@@ -27,19 +27,20 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS01">
 ### OS Week 01 – Deadline: TBA.
-* [Week 01 Assignment #1: Setup a Virtual Debian Guest](W01-01.md)
-* [Week 01 Assignment #2: The ATM Way: GSGS and Read](W01-02.md)
-* [Week 01 Assignment #3: LINKS/](W01-03.md)
-* [Week 01 Assignment #4: Finishing](W01-04.md)
+* [Week 01 Assignment #1: Setup a Virtual Debian Guest](W01-01.md){:target="_blank"}
+* [Week 01 Assignment #2: GIT, GITHUB, and SSH](W01-05.md){:target="_blank"}
+* [Week 01 Assignment #3: The ATM Way: GSGS and Read](W01-02.md){:target="_blank"}
+* [Week 01 Assignment #4: LINKS/](W01-03.md){:target="_blank"}
+* [Week 01 Assignment #5: Finishing](W01-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
-    * See log codes at <https://doit.vlsm.org/ETC/logCodes.txt>
-    * E.g., see cbkadal's <https://cbkadal.github.io/os242/TXT/mylog.txt>
+    * See log codes at <https://doit.vlsm.org/ETC/logCodes.txt>{:target="_blank"}
+    * E.g., see cbkadal's <https://cbkadal.github.io/os242/TXT/mylog.txt>{:target="_blank"}
   * myupdate.txt
     * For Week 01, fill "myupdate.txt" with "OS242W01"
-    * E.g., see cbkadal's <https://cbkadal.github.io/os242/TXT/myupdate.txt>
+    * E.g., see cbkadal's <https://cbkadal.github.io/os242/TXT/myupdate.txt>{:target="_blank"}
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
