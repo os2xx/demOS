@@ -1,0 +1,32 @@
+title: Operating Systems Programming
+version:     "0059a---15-Aug-2024"
+copyright:   "2024-2024"
+description: This is the Operating System course site,
+      a GitHub Page, hosted at GitHub.com (thank you!).
+      This site contains links to lecture materials, exam questions, and laboratory materials.
+      It is based on Google Here, There, and Everywhere (GSGS&trade;).
+disc: You are free to share, copy and redistribute the material of this site 
+      in any medium or format for any purpose, even commercially. 
+      Please give appropriate credit, provide a link to the page, 
+      and indicate if changes were made. You may do so in any reasonable manner. 
+      You should not apply legal terms or technological measures, 
+      that legally restrict others from doing anything that is permitted here.
+author: C. BinKadal
+google_analytics: G-1Y8LEP3BBR
+address: "Sendirian, Berhad."
+sitemap: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://demos.vlsm.org/"
+urlweb1:          "https://os.vlsm.org/"
+urlweb2:          "https://sp.vlsm.org/"
+urlOSscele:       "https://scele.cs.ui.ac.id/course/view.php?id=3841"
+urlSPscele:       "https://scele.cs.ui.ac.id/course/view.php?id=3742"
+urllogcode:       "https://doit.vlsm.org/ETC/logCodes.txt"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/os2xx/demOS/"
+urlghpage:        "https://demOS.vlsm.org/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
