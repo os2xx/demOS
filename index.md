@@ -26,7 +26,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md){:target="_blank"}
 
 [&#x213C;](#)<br id="idxOS01">
-### OS Week 01 – Deadline: TBA.
+### OS Week 01 – Deadline: 8-Sep-2024
 * [Week 01 Assignment #1: Setup a Virtual Debian Guest](W01-01.md){:target="_blank"}
 * [Week 01 Assignment #2: GIT, GITHUB, and SSH](W01-05.md){:target="_blank"}
 * [Week 01 Assignment #3: The ATM Way: GSGS and Read](W01-02.md){:target="_blank"}
