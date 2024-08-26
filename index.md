@@ -17,7 +17,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
 [&#x213C;](#)<br id="idxOS00">
-### OS Week 00 – Deadline: 1-Sep-2024
+### OS Week 00 – Deadline: 1-Sep-2024 23:00
 * [Week 00 Assignment #1: GitHub Account and Repository](W00-01.md){:target="_blank"}
 * [Week 00 Assignment #2: "TXT/mylog.txt"](W00-02.md){:target="_blank"}
 * [Week 00 Assignment #3: Create Your GitHub Page](W00-03.md){:target="_blank"}
@@ -26,7 +26,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 * [Week 00 Assignment #6: Revisit "TXT/mylog.txt"](W00-06.md){:target="_blank"}
 
 [&#x213C;](#)<br id="idxOS01">
-### OS Week 01 – Deadline: 8-Sep-2024
+### OS Week 01 – Deadline: 8-Sep-2024 23:00
 * [Week 01 Assignment #1: Setup a Virtual Debian Guest](W01-01.md){:target="_blank"}
 * [Week 01 Assignment #2: GIT, GITHUB, and SSH](W01-05.md){:target="_blank"}
 * [Week 01 Assignment #3: The ATM Way: GSGS and Read](W01-02.md){:target="_blank"}
