@@ -1,5 +1,5 @@
 #!/bin/bash
-# REV07: Sat 07 Sep 2024 14:00
+# REV07: Sat 07 Sep 2024 14:01
 # REV06: Wed 18 Oct 2023 11:00
 # REV05: Sun 17 Sep 2023 08:00
 # START: Mon 07 Nov 2022 19:00
@@ -41,8 +41,4 @@ touch $REPORT
 STAMP=$(stamp)
 
 fecho $IAM
-
-
-
-
 
