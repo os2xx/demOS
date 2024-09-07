@@ -45,7 +45,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS02">
-### OS Week 02 – Deadline: TBA.
+### OS Week 02 – Deadline: 15-Sep-2024 23:00
 * [Week 02 Assignment #1: Readings, Watchings, and Demos](W02-01.md)
 * [Week 02 Assignment #2: GnuPG](W02-02.md)
 * Week 02 Assignment #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md)
