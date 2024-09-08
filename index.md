@@ -46,24 +46,28 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS02">
 ### OS Week 02 – Deadline: 15-Sep-2024 23:00
-* [Week 02 Assignment #1: Readings, Watchings, and Demos](W02-01.md)
-* [Week 02 Assignment #2: GnuPG](W02-02.md)
-* Week 02 Assignment #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md)
-* [Week 02 Assignment #4: Review links every week!](W02-08.md)
-* [Week 02 Assignment #5: Assignment Script](W02-10.md)
-* [Week 02 Assignment #6: Finishing](W02-09.md)
+* [Week 02 Assignment #1: Readings, Watchings, and Demos](W02-01.md){:target="_blank"}
+* [Week 02 Assignment #2: GnuPG](W02-02.md){:target="_blank"}
+* Week 02 Assignment #3: Update "LINKS/". See also [Week 01 Assignments #3](W01-03.md){:target="_blank"}
+* [Week 02 Assignment #4: Review links every week!](W02-08.md){:target="_blank"}
+* [Week 02 Assignment #5: Back up Your SSH and GPG keys!](W02-11.md){:target="_blank"}
+* [Week 02 Assignment #6: Assignment Script](W02-10.md){:target="_blank"}
+* [Week 02 Assignment #7: Finishing](W02-09.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS242W02)
-  * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt WEEK02.sh)
+  * myW02.tar.xz.asc (content: WEEK02-00-BASIC.txt WEEK02-01-VERSION.txt WEEK02-DEMO-CHECK.txt 
+    WEEK02-MD5SUM.txt WEEK02-MYNAME.txt WEEK02.sh)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
-* It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
+* Genuine (ORI) Computer Science students back up their KEYS! 
+  Fake (KW) students keep sobbing because they are losing their BACK UPS.
+  It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS03">
@@ -238,29 +242,5 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 <!--
 
-Senin-Rabu:               Kuliah
-Senin, 16 September 2024: Maulid Nabi Muhammad SAW
-Senin, 14-22 Oktober 2024: Ujian Tengah Semester (UTS)
-Rabu,  27 November 2024: PELAKSANAAN PEMUNGUTAN SUARA
-Rabu,  11-20 Desember 2024: Ujian Akhir Semester (UAS)
-
-
-        July                 August              September        
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
-    1  2  3  4  5  6               1  2  3   1 BB  3  4  5  6  7  
- 7  8  9 10 11 12 13   4  5  6  7  8  9 10   8 CC 10 11 12 13 14  
-14 15 16 17 18 19 20  11 12 13 14 15 16 17  15 XX 17 DD 19 20 21  
-21 22 23 24 25 26 27  18 19 20 21 22 23 24  22 23 24 EE 26 27 28  
-28 29 30 31           25 AA 27 28 29 30 31  29 30                 
-                                                                  
-
-      October               November              December        
-Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
-       1 FF  3  4  5                  1  2   1  2  3  4  5  6  7  
- 6  7  8  9 10 11 12   3  4  5 CC  7  8  9   8  9 10 XX XX XX XX  
-13 XX XX XX XX XX XX  10 11 12 DD 14 15 16  XX XX XX XX XX XX 21  
-XX XX XX AA 24 25 26  17 18 19 EE 21 22 23  22 23 24 25 26 27 28  
-27 28 29 BB 31        24 25 26 XX 28 29 30  29 30 31              
-                                                                  
 -->
 
