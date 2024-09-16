@@ -72,10 +72,11 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS03">
 ### OS Week 03 – Deadline: 24-Sep-2024 23:00
-* [Week 03 Assignment #1: Readings and Demos](W03-01.md)
-* [Week 03 Assignment #2: Add/Create An Extra Virtual Disk](W03-02.md)
-* [Week 03 Assignment #3: Assignment Script](W03-08.md)
-* [Week 03 Assignment #4: Finishing](W03-09.md)
+* [Week 03 Assignment #1: Readings and Demos](W03-01.md){:target="_blank"}
+* Week 03 Assignment #2: Back up Your SSH and GPG keys! [See Week 02 #5](W02-11.md){:target="_blank"}
+* [Week 03 Assignment #3: Add/Create An Extra Virtual Disk](W03-02.md){:target="_blank"}
+* [Week 03 Assignment #4: Assignment Script](W03-08.md){:target="_blank"}
+* [Week 03 Assignment #5: Finishing](W03-09.md){:target="_blank"}
 * Recheck folder “TXT/”:
   * mylog.txt
   * mypubkey.txt
@@ -86,7 +87,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
