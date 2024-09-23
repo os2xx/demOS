@@ -109,7 +109,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
@@ -131,7 +131,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
@@ -152,7 +152,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
@@ -172,7 +172,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
@@ -193,7 +193,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
@@ -214,7 +214,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
@@ -234,7 +234,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
-  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html)
+  * See the 4 GIT MANTRAS: [pull, add, commit, push](https://doit.vlsm.org/047.html){:target="_blank"}
 * It is always a good idea to back up the last few OVA (or UTM) files on an external disk.
   If your computer has problems, those OVA files can be run on another computer.
 
