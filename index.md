@@ -92,11 +92,12 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS04">
-### OS Week 04 – Deadline:  TBA.
-* [Week 04 Assignment #1: Readings and Demos](W04-01.md)
-* [Week 04 Assignment #2: Assignment Script](W04-02.md)
-* [Week 04 Assignment #3: Compiling The Linux Programming Interface (TLPI)](W04-03.md)
-* [Week 04 Assignment #4: Finishing](W04-04.md)
+### OS Week 04 – Deadline: 1-Oct-2024 23:00
+* [Week 04 Assignment #1: Readings and Demos](W04-01.md){:target="_blank"}
+* Week 04 Assignment #2: Back up Your SSH and GPG keys! [See Week 02 #5](W02-11.md){:target="_blank"}
+* [Week 04 Assignment #3: Assignment Script](W04-02.md){:target="_blank"}
+* [Week 04 Assignment #4: Compiling The Linux Programming Interface (TLPI)](W04-03.md){:target="_blank"}
+* [Week 04 Assignment #5: Finishing](W04-04.md){:target="_blank"}
 * Recheck folder “TXT/”:
   * mylog.txt
   * mypubkey.txt
@@ -104,7 +105,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * myscript.sh
   * myupdate.txt (content: OS242W04)
   * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt WEEK04-04-TLPI.txt
-    WEEK04-054173920ab56d235d6317b8da1e7311-md5sum.bin WEEK04-DEMO-CHECK.txt)
+    WEEK04-054173920ab56d235d6317b8da1e7311-md5sum.bin WEEK04-DEMO-CHECK.txt WEEK03-MD5SUM.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
