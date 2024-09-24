@@ -105,7 +105,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * myscript.sh
   * myupdate.txt (content: OS242W04)
   * myW04.tar.xz.asc (content: WEEK04-00-BASIC.txt WEEK04-01-VERSION.txt WEEK04-04-TLPI.txt
-    WEEK04-b33d062e41a5114ec0e41e9d402bddf2-md5sum.bin WEEK04-DEMO-CHECK.txt WEEK03-MD5SUM.txt)
+    WEEK04-96d993ecfe22c50494981e238d3087a9-md5sum.bin WEEK04-DEMO-CHECK.txt WEEK04-MD5SUM.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
