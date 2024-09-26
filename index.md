@@ -114,7 +114,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS05">
-### OS Week 05 – Deadline:  TBA.
+### OS Week 05 – Deadline: 8-Oct-2024 23:00
 * [Week 05 Assignment #1: Readings and Demos](W05-01.md)
 * [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-02.md)
 * [Week 05 Assignment #3: Assignment Script](W05-03.md)
