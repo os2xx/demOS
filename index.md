@@ -115,11 +115,12 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS05">
 ### OS Week 05 – Deadline: 8-Oct-2024 23:00
-* [Week 05 Assignment #1: Readings and Demos](W05-01.md)
-* [Week 05 Assignment #2: How Low (Memory) Can You Go?](W05-02.md)
-* [Week 05 Assignment #3: Assignment Script](W05-03.md)
-* [Week 05 Assignment #4: Memory](W05-04.md)
-* [Week 05 Assignment #5: Finishing](W05-05.md)
+* [Week 05 Assignment #1: Readings and Demos](W05-01.md){:target="_blank"}
+* Week 05 Assignment #2: Back up Your SSH and GPG keys! [See Week 02 #5](W02-11.md){:target="_blank"}
+* [Week 05 Assignment #3: How Low (Memory) Can You Go?](W05-02.md){:target="_blank"}
+* [Week 05 Assignment #4: Assignment Script](W05-03.md){:target="_blank"}
+* [Week 05 Assignment #5: Memory](W05-04.md){:target="_blank"}
+* [Week 05 Assignment #6: Finishing](W05-05.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
