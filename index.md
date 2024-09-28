@@ -127,8 +127,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * myrank.txt
   * myscript.sh
   * myupdate.txt (content: OS242W05)
-  * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a-MYMEMORY.txt  
-    WEEK05-05b-MYMEMORY.txt WEEK05-DEMO-CHECK.txt WEEK05-MD5SUM.txt)
+  * myW05.tar.xz.asc (content: WEEK05-00-BASIC.txt WEEK05-01-VERSION.txt WEEK05-05a-MYMEMORY.txt WEEK05-05b-MYMEMORY.txt WEEK05-DEMO-CHECK.txt WEEK05-MD5SUM.txt)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
