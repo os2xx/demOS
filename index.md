@@ -8,11 +8,11 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W05](#idxOS05)
-
 [W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04)
+
+[W05](#idxOS05)
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
@@ -136,11 +136,12 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS06">
-### OS Week 06 – Deadline:  TBA.
-* [Week 06 Assignment #1: Readings and Demos](W06-01.md)
-* [Week 06 Assignment #2: Assignment Script](W06-02.md)
-* [Week 06 Assignment #3: Fork and Shared Memory](W06-03.md)
-* [Week 06 Assignment #4: Finishing](W06-04.md)
+### OS Week 06 – Deadline: 29-Oct-2024 23:00
+* [Week 06 Assignment #1: Readings and Demos](W06-01.md){:target="_blank"}
+* Week 06 Assignment #2: Back up Your SSH and GPG keys! [See Week 02 #5](W02-11.md){:target="_blank"}
+* [Week 06 Assignment #3: Assignment Script](W06-02.md){:target="_blank"}
+* [Week 06 Assignment #4: Fork and Shared Memory](W06-03.md){:target="_blank"}
+* [Week 06 Assignment #5: Finishing](W06-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
@@ -158,10 +159,10 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS07">
 ### OS Week 07 – Deadline:  TBA.
-* [Week 07 Assignment #1: Readings and Demos](W07-01.md)
-* [Week 07 Assignment #2: Assignment Script](W07-02.md)
-* [Week 07 Assignment #3: Synchronization](W07-03.md)
-* [Week 07 Assignment #4: Finishing](W07-04.md)
+* [Week 07 Assignment #1: Readings and Demos](W07-01.md){:target="_blank"}
+* [Week 07 Assignment #2: Assignment Script](W07-02.md){:target="_blank"}
+* [Week 07 Assignment #3: Synchronization](W07-03.md){:target="_blank"}
+* [Week 07 Assignment #4: Finishing](W07-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
@@ -178,10 +179,10 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS08">
 ### OS Week 08 – Deadline:  TBA.
-* [Week 08 Assignment #1: Readings and Demos](W08-01.md)
-* [Week 08 Assignment #2: Assignment Script](W08-02.md)
-* [Week 08 Assignment #3: LFS 12.1 Chapter 01-05](W08-03.md)
-* [Week 08 Assignment #4: Finishing](W08-04.md)
+* [Week 08 Assignment #1: Readings and Demos](W08-01.md){:target="_blank"}
+* [Week 08 Assignment #2: Assignment Script](W08-02.md){:target="_blank"}
+* [Week 08 Assignment #3: LFS 12.1 Chapter 01-05](W08-03.md){:target="_blank"}
+* [Week 08 Assignment #4: Finishing](W08-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
@@ -200,10 +201,10 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS09">
 ### OS Week 09 – Deadline:  TBA.
-* [Week 09 Assignment #1: Readings and Demos](W09-01.md)
-* [Week 09 Assignment #2: Assignment Script](W09-02.md)
-* [Week 09 Assignment #3: LFS 12.1 Chapter 06-07](W09-03.md)
-* [Week 09 Assignment #4: Finishing](W09-04.md)
+* [Week 09 Assignment #1: Readings and Demos](W09-01.md){:target="_blank"}
+* [Week 09 Assignment #2: Assignment Script](W09-02.md){:target="_blank"}
+* [Week 09 Assignment #3: LFS 12.1 Chapter 06-07](W09-03.md){:target="_blank"}
+* [Week 09 Assignment #4: Finishing](W09-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
@@ -220,10 +221,10 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 [&#x213C;](#)<br id="idxOS10">
 ### OS Week 10 – Deadline: TBA.
-* [Week 10 Assignment #1: Readings and Demos](W10-01.md)
-* [Week 10 Assignment #2: Assignment Script](W10-02.md)
-* [Week 10 Assignment #3: LFS 12.1 Chapter 08](W10-03.md)
-* [Week 10 Assignment #4: Finishing](W10-04.md)
+* [Week 10 Assignment #1: Readings and Demos](W10-01.md){:target="_blank"}
+* [Week 10 Assignment #2: Assignment Script](W10-02.md){:target="_blank"}
+* [Week 10 Assignment #3: LFS 12.1 Chapter 08](W10-03.md){:target="_blank"}
+* [Week 10 Assignment #4: Finishing](W10-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
   * mypubkey.txt
