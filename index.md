@@ -149,7 +149,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   * myscript.sh
   * myupdate.txt (content: OS242W06)
   * myW06.tar.xz.asc (content: WEEK06-00-BASIC.txt WEEK06-01-VERSION.txt WEEK06-06-RUN.txt
-    WEEK06-DEMO-CHECK.txt WEEK06-SHARE.bin)
+    WEEK06-DEMO-CHECK.txt WEEK06-MD5SUM.txt WEEK06-SHARE.bin)
   * SHA256SUM
   * SHA256SUM.asc
 * Submit (PUSH) your assignments
