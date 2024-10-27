@@ -1,5 +1,5 @@
 #!/bin/bash
-# REV08: Tue 22 Oct 2024 16:00
+# REV09: Sun 27 Oct 2024 18:00
 # REV08: Tue 22 Oct 2024 16:00
 # REV07: Wed 17 Apr 2024 16:00
 # REV06: Wed 18 Oct 2023 11:00
@@ -14,7 +14,7 @@
 # INFO: DEMO
 
 WEEK="07"
-DATE0="22-OCT-2024"
+DATE0="27-OCT-2024"
 RESULT="$HOME/RESULT/W$WEEK/"
 REPORT="$RESULT/WEEK$WEEK-DEMO-CHECK.txt"
 IAM="DEMOCHECK $(echo $(whoami)W$WEEK$(hostname)|tr 'A-Za-z' 'N-ZA-Mn-za-m')"
