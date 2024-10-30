@@ -8,11 +8,12 @@ title:  "OSP Weekly Assignments"
 
 The Deadline is 7 (seven) days after the assignment was announced.
 
-[W06](#idxOS06) - [W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+
+[W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04)
 
-[W05](#idxOS05)
+[W05](#idxOS05) - [W06](#idxOS06)
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
