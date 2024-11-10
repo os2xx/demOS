@@ -9,11 +9,11 @@ title:  "OSP Weekly Assignments"
 The Deadline is 7 (seven) days after the assignment was announced.
 
 
-[W07](#idxOS07) - [W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
+[W08](#idxOS08) - [W09](#idxOS09) - [W10](#idxOS10) 
 
 [W00](#idxOS00) - [W01](#idxOS01) - [W02](#idxOS02) - [W03](#idxOS03) - [W04](#idxOS04)
 
-[W05](#idxOS05) - [W06](#idxOS06)
+[W05](#idxOS05) - [W06](#idxOS06) - [W07](#idxOS07)
 
 [Demos](https://github.com/os2xx/demOS/tree/master/Demos/)
 
@@ -179,7 +179,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS08">
-### OS Week 08 – Deadline:  TBA.
+### OS Week 08 – Deadline: 12-Nov-2024 23:00
 * [Week 08 Assignment #1: Readings and Demos](W08-01.md){:target="_blank"}
 * [Week 08 Assignment #2: Assignment Script](W08-02.md){:target="_blank"}
 * [Week 08 Assignment #3: LFS 12.1 Chapter 01-05](W08-03.md){:target="_blank"}
