@@ -201,7 +201,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 
 
 [&#x213C;](#)<br id="idxOS09">
-### OS Week 09 – Deadline:  TBA.
+### OS Week 09 – Deadline: 19-Nov-2024 23:00
 * [Week 09 Assignment #1: Readings and Demos](W09-01.md){:target="_blank"}
 * [Week 09 Assignment #2: Assignment Script](W09-02.md){:target="_blank"}
 * [Week 09 Assignment #3: LFS 12.1 Chapter 06-07](W09-03.md){:target="_blank"}
