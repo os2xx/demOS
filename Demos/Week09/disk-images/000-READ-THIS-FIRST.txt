@@ -50,7 +50,7 @@ mdir    -i zzzzDisket.img
 =====================
 
 dd if=/dev/zero of=vfat32.img bs=1M count=33
-mkfs.vfat -F 32 -v vfat32.img
+/usr/sbin/mkfs.vfat -F 32 -v vfat32.img
 mdir            -i vfat32.img
 
 
