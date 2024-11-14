@@ -221,7 +221,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
   If your computer has problems, those OVA files can be run on another computer.
 
 [&#x213C;](#)<br id="idxOS10">
-### OS Week 10 – Deadline: TBA.
+### OS Week 10 – Deadline: 27-Nov-2024 23:00
 * [Week 10 Assignment #1: Readings and Demos](W10-01.md){:target="_blank"}
 * [Week 10 Assignment #2: Assignment Script](W10-02.md){:target="_blank"}
 * [Week 10 Assignment #3: LFS 12.1 Chapter 08](W10-03.md){:target="_blank"}
