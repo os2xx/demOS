@@ -182,7 +182,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 ### OS Week 08 – Deadline: 12-Nov-2024 23:00
 * [Week 08 Assignment #1: Readings and Demos](W08-01.md){:target="_blank"}
 * [Week 08 Assignment #2: Assignment Script](W08-02.md){:target="_blank"}
-* [Week 08 Assignment #3: LFS 12.1 Chapter 01-05](W08-03.md){:target="_blank"}
+* [Week 08 Assignment #3: LFS 12.2 Chapter 01-05](W08-03.md){:target="_blank"}
 * [Week 08 Assignment #4: Finishing](W08-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
@@ -204,7 +204,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 ### OS Week 09 – Deadline: 19-Nov-2024 23:00
 * [Week 09 Assignment #1: Readings and Demos](W09-01.md){:target="_blank"}
 * [Week 09 Assignment #2: Assignment Script](W09-02.md){:target="_blank"}
-* [Week 09 Assignment #3: LFS 12.1 Chapter 06-07](W09-03.md){:target="_blank"}
+* [Week 09 Assignment #3: LFS 12.2 Chapter 06-07](W09-03.md){:target="_blank"}
 * [Week 09 Assignment #4: Finishing](W09-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
@@ -224,7 +224,7 @@ The Deadline is 7 (seven) days after the assignment was announced.
 ### OS Week 10 – Deadline: 27-Nov-2024 23:00
 * [Week 10 Assignment #1: Readings and Demos](W10-01.md){:target="_blank"}
 * [Week 10 Assignment #2: Assignment Script](W10-02.md){:target="_blank"}
-* [Week 10 Assignment #3: LFS 12.1 Chapter 08](W10-03.md){:target="_blank"}
+* [Week 10 Assignment #3: LFS 12.2 Chapter 08](W10-03.md){:target="_blank"}
 * [Week 10 Assignment #4: Finishing](W10-04.md){:target="_blank"}
 * Recheck folder "TXT/":
   * mylog.txt
