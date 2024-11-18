@@ -24,16 +24,16 @@ https://www.gnu.org/software/mtools/manual/mtools.pdf
 https://stackoverflow.com/questions/22385189/add-files-to-vfat-image-without-mounting
 
 
-2) Let's create dummy file "zzzz.txt"
-=====================================
+2) Let's create dummy file "zzzzFile.txt"
+=========================================
 
 echo "This is a dummy file" > zzzzFile.txt
 ls -al
 cat zzzzFile.txt
 
 
-3) Let's create and format image "test.img"
-===========================================
+3) Let's create and format image "zzzztest.img"
+===============================================
    
 mformat -i zzzztest.img -C -T 4096 -s 512 -h 1 -v TEST
 mcopy   -i zzzztest.img zzzzFile.txt ::yyyyFile.txt
@@ -42,7 +42,7 @@ mtype   -i zzzztest.img ::yyyyFile.txt
 
 
 4a) Standard 1.44 MB Disket Image
-================================
+=================================
 
 mformat -i zzzzDisket1440.img -C -f 1440 -v Disket_1440
 mdir    -i zzzzDisket1440.img
