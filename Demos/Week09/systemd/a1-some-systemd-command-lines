@@ -1,9 +1,10 @@
 #!/bin/bash
-# REV07: Thu Mar  1 21:32:48 WIB 2018
-# START: Mon Sep  5 11:12:35 WIB 2016
+# REV08: Mon 18 Nov 2024 09:00
+# REV07: Thu  1 Mar 2018 21:00
+# START: Mon  5 Sep 2016 11:00
 
 # These are some command lines 
-# Copyright (C) 2016-2018 http://RahmatM.Samik-Ibrahim.vLSM.org/
+# Copyright (C) 2016-2024 BinKadal, Sdn. Bhd.
 # This program is free script/software. This program is distributed in the hope 
 # that it will be useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
@@ -39,4 +40,43 @@ do
 done
 
 exit
+
+# INFO: systemctl list-unit-files
+# INFO: This command helps administrators keep track of what units are configured to start automatically or manually.
+# INFO: UNIT FILE: The name of the unit file 
+# INFO: STATE: The status of the unit
+# INFO: == enabled: The unit is set to start automatically at boot.
+# INFO: == disabled: The unit is not set to start automatically.
+# INFO: == static: The unit is not enabled by default, but it can be started by another unit.
+# INFO: == masked: The unit is deliberately disabled, and it cannot be started manually or automatically.
+# INFO: 
+# INFO: systemctl list-units
+# INFO: shows information about units such as services, targets, mount points, devices, and more.
+# INFO: UNIT: The name of the unit (e.g., nginx.service).
+# INFO: LOAD: Indicates whether the unit is loaded into memory.
+# INFO: ACTIVE: The current status of the unit (e.g., active, inactive).
+# INFO: == active: The unit is currently running or has completed its work (for ones that exit after running).
+# INFO: == inactive: The unit is not currently running.
+# INFO: == failed: The unit has failed to start or encountered an error.
+# INFO: == activating: The unit is in the process of starting up.
+# INFO: == deactivating: The unit is in the process of stopping.
+# INFO: SUB: A more specific status of the unit (e.g., running, exited).
+# INFO: DESCRIPTION: A brief description of the unit's function.
+# INFO: 
+# INFO: EXAMPLES:
+# INFO: systemctl start nginx.service
+# INFO: systemctl stop nginx.service
+# INFO: systemctl restart nginx.service
+# INFO: systemctl enable nginx.service
+# INFO: systemctl disable nginx.service
+# INFO: systemctl mask nginx.service
+# INFO: systemctl unmask nginx.service
+# INFO: journalctl -u nginx.service
+# INFO: journalctl -b
+# INFO: journalctl --since "1 hour ago"
+# INFO: journalctl -f
+# INFO: systemctl show nginx.service
+# INFO: systemctl list-units --type=target
+# INFO:
+# INFO:
 

@@ -38,18 +38,21 @@ mtype   -i zzzztest.img ::yyyyFile.txt
 mformat -i zzzzDisket1440.img -C -f 1440 -v Disket_1440
 mdir    -i zzzzDisket1440.img
 
+
 4b) Standard 360kb Disket Image
 ===============================
 
 mformat -i zzzzDisket360.img -C -f 360 -v Disket_360
 mdir    -i zzzzDisket360.img
 
-4c) Tiny 10kb Disket Image
+
+4c) Tiny 50kb Disket Image
 ==========================
 
 dd if=/dev/zero bs=1k count=50 of=zzzzvfat12.img;
 /usr/sbin/mkfs.vfat -F 12 -v zzzzvfat12.img
 mdir                      -i zzzzvfat12.img
+
 
 5) Large Image (33MB)
 =====================
@@ -63,5 +66,4 @@ mdir                           -i zzzzvfat32.img
 ==================
 
 rm -fv zzzz*
-
 
