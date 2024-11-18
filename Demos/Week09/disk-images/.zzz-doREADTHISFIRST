@@ -47,8 +47,9 @@ mdir    -i zzzzDisket360.img
 4c) Tiny 10kb Disket Image
 ==========================
 
-mformat -i zzzztinyDisk.img -C -f 10 -v TinyDisk
-mdir    -i zzzztinyDisk.img
+dd if=/dev/zero bs=1k count=50 of=zzzzvfat12.img;
+/usr/sbin/mkfs.vfat -F 12 -v zzzzvfat12.img
+mdir                      -i zzzzvfat12.img
 
 5) Large Image (33MB)
 =====================
