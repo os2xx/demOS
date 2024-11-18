@@ -1,12 +1,12 @@
 #!/bin/bash
+# REV09: Mon 18 Nov 2024 07:02
 # REV08: Sun 06 Aug 2023 12:00
 # REV07: Tue 15 Nov 2022 07:00
 # REV05: Tue 24 Mar 2020 11:00
 # REV03: Wed 19 Feb 2020 15:00
-# REV02: Wed 19 Feb 2020 07:00
 # START: Fri 07 Feb 2020 00:00
 # 
-# Copyright (C) 2020-2023 BinKadal, Sdn. Bhd.
+# Copyright (C) 2020-2024 BinKadal, Sdn. Bhd.
 # This is a free script/software.
 
 # INFO: This will generate file 000-READ-THIS-FIRST.txt

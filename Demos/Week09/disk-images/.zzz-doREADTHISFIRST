@@ -4,6 +4,7 @@ DISK IMAGES
 
 0) Packages
 ===========
+
 mtools and dosfstools
 
 
@@ -16,38 +17,50 @@ https://stackoverflow.com/questions/22385189/add-files-to-vfat-image-without-mou
 
 2) Let's create dummy file "zzzz.txt"
 =====================================
-echo "This is a dummy file" > zzzz.txt
+
+echo "This is a dummy file" > zzzzFile.txt
 ls -al
-cat zzzz.txt
+cat zzzzFile.txt
 
 
 3) Let's create and format image "test.img"
 ===========================================
    
-mformat -i test.img -C -T 4096 -s 512 -h 1 -v TEST
-mcopy   -i test.img zzzz.txt ::yyyy.txt
-mdir    -i test.img 
-mtype   -i test.img ::yyyy.txt 
+mformat -i zzzztest.img -C -T 4096 -s 512 -h 1 -v TEST
+mcopy   -i zzzztest.img zzzzFile.txt ::yyyyFile.txt
+mdir    -i zzzztest.img 
+mtype   -i zzzztest.img ::yyyyFile.txt 
 
 
-4) Standard 1.44 MB Disket Image
+4a) Standard 1.44 MB Disket Image
 ================================
 
-mformat -i zzzzDisket.img -C -f 1440 -v Disket_1440
-mdir    -i zzzzDisket.img
+mformat -i zzzzDisket1440.img -C -f 1440 -v Disket_1440
+mdir    -i zzzzDisket1440.img
 
+4b) Standard 360kb Disket Image
+===============================
+
+mformat -i zzzzDisket360.img -C -f 360 -v Disket_360
+mdir    -i zzzzDisket360.img
+
+4c) Tiny 10kb Disket Image
+==========================
+
+mformat -i zzzztinyDisk.img -C -f 10 -v TinyDisk
+mdir    -i zzzztinyDisk.img
 
 5) Large Image (33MB)
 =====================
 
-dd if=/dev/zero of=vfat32.img bs=1M count=33
-/usr/sbin/mkfs.vfat -F 32 -v vfat32.img
-mdir            -i vfat32.img
+dd if=/dev/zero bs=1M count=33 of=zzzzvfat32.img
+/usr/sbin/mkfs.vfat -F 32      -v zzzzvfat32.img
+mdir                           -i zzzzvfat32.img
 
 
 6) Delete Image(s)
 ==================
 
-rm -f test.img vfat32.img zzzzDisket.img zzzz.txt
+rm -fv zzzz*
 
 
